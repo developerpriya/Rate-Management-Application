@@ -1,0 +1,11 @@
+com\example\test\rate\config\AsyncConfig.class
+com\example\test\rate\ManageRateApplication.class
+com\example\test\rate\model\Rate.class
+com\example\test\rate\exception\RateNotFound.class
+com\example\test\rate\repository\RateRepository.class
+com\example\test\rate\model\ErrorMessage.class
+com\example\test\rate\exception\CustomExceptionHandler.class
+com\example\test\rate\VO\RestTemplateVO.class
+com\example\test\rate\controller\RateController.class
+com\example\test\rate\model\Rate$RateBuilder.class
+com\example\test\rate\service\RateService.class
